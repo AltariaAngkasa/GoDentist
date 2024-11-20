@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "269459525970",
+    "firebase_url": "https://vivid-grove-405713-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vivid-grove-405713",
+    "storage_bucket": "vivid-grove-405713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269459525970:android:6f7a738633c8dcfa77aa8b",
+        "android_client_info": {
+          "package_name": "com.perigigi.godentist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269459525970-8lfm4opd2lpndahcoai9c4rr29umnu02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsjosM2e31rrjzu2Ujt3rKGuJ_xhavwfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269459525970-8lfm4opd2lpndahcoai9c4rr29umnu02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269459525970:android:44086c53f656908b77aa8b",
+        "android_client_info": {
+          "package_name": "com.periksagigiindonesia.godentist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269459525970-8lfm4opd2lpndahcoai9c4rr29umnu02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsjosM2e31rrjzu2Ujt3rKGuJ_xhavwfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269459525970-8lfm4opd2lpndahcoai9c4rr29umnu02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
